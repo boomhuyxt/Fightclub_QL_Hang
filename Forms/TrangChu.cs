@@ -16,5 +16,15 @@ namespace Fightclub_QL_Hang.Forms
         {
             InitializeComponent();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void TrangChu_Load(object sender, EventArgs e)
+        {
+            cmb_trangThai.SelectedIndex = 0;
+        }
     }
 }

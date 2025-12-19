@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Fightclub_QL_Hang.Forms
 {
-    public partial class Admin : Form
+    public partial class FormXuat : Form
     {
-        public Admin()
+        public FormXuat()
         {
             InitializeComponent();
-        }
-
-        private void Admin_Load(object sender, EventArgs e)
-        {
-            cmb_trangThai.SelectedIndex = 0;
         }
     }
 }
