@@ -138,6 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Model\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\logo_crypto-removebg-preview.png" />
