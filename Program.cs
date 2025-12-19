@@ -16,7 +16,7 @@ namespace Fightclub_QL_Hang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormDangNhap_DangKy());
         }
     }
 }
