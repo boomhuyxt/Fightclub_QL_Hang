@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Fightclub_QL_Hang
+namespace Fightclub_QL_Hang.Forms
 {
-    public partial class Form1 : Form
+    public partial class TrangChu : Form
     {
-        public Form1()
+        public TrangChu()
         {
             InitializeComponent();
         }
